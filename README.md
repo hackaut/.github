@@ -1,1 +1,3 @@
-# .github
+# HACKUT
+
+The coding club of MAKAUT
