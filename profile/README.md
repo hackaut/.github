@@ -1,7 +1,7 @@
-# Hackut - Unleash Your Inner Hacker
-Welcome to Hackut, the coding club at MAKAUT!
+# Hackaut - Unleash Your Inner Hacker
+Welcome to Hackaut, the coding club at MAKAUT!
 
-We are a passionate community of students who are interested in all things coding, from web development and mobile app creation to machine learning and artificial intelligence. Whether you're a seasoned programmer or just starting out, Hackut is a place for you to learn, grow, and collaborate with like-minded individuals.
+We are a passionate community of students who are interested in all things coding, from web development and mobile app creation to machine learning and artificial intelligence. Whether you're a seasoned programmer or just starting out, Hackaut is a place for you to learn, grow, and collaborate with like-minded individuals.
 
 ## What We Do
 
@@ -12,22 +12,24 @@ We are a passionate community of students who are interested in all things codin
 
 ## Who Should Join
 
-Students who are interested in learning to code
-Programmers of all skill levels looking to improve their abilities
-Students who want to collaborate on coding projects
-Anyone with a passion for technology and innovation
-Benefits of Joining
+- Students who are interested in learning to code.
+- Programmers of all skill levels looking to improve their abilities.
+- Students who want to collaborate on coding projects.
+- Anyone with a passion for technology and innovation.
 
-Learn new programming languages and technologies.
-Gain experience by working on real-world projects.
-Develop your problem-solving and critical thinking skills.
-Network with other coders and tech enthusiasts.
-Prepare for a career in the tech industry.
-Getting Started
+## Benefits of Joining.
 
-Attend our next meeting! Check out our website or social media pages for details.
-Join our online community. We have a forum and chat channels where you can connect with other members.
-Sign up for our mailing list. Stay up-to-date on upcoming events and announcements.
-We look forward to seeing you at HackUT!
+- Learn new programming languages and technologies.
+- Gain experience by working on real-world projects.
+- Develop your problem-solving and critical thinking skills.
+- Network with other coders and tech enthusiasts.
+- Prepare for a career in the tech industry.
+
+## Getting Started
+
+- Attend our next meeting! Check out our website or social media pages for details.
+- Join our online community. We have a forum and chat channels where you can connect with other members.
+- Sign up for our mailing list. Stay up-to-date on upcoming events and announcements.
+- We look forward to seeing you at HACKAUT!
 
 > Let's build something awesome together!
