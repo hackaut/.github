@@ -1,4 +1,4 @@
-# Hackaut - Unleash Your Inner Hacker
+# Hackaut - Code Beyond Limits
 Welcome to Hackaut, the coding club at MAKAUT!
 
 We are a passionate community of students who are interested in all things coding, from web development and mobile app creation to machine learning and artificial intelligence. Whether you're a seasoned programmer or just starting out, Hackaut is a place for you to learn, grow, and collaborate with like-minded individuals.
